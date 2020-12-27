@@ -1,0 +1,7 @@
+https://tools.suckless.org/dmenu/patches/center/dmenu-center-4.8.diff
+https://tools.suckless.org/dmenu/patches/grid/dmenu-grid-4.9.diff
+https://tools.suckless.org/dmenu/patches/highlight/dmenu-highlight-4.9.diff
+https://tools.suckless.org/dmenu/patches/instant/dmenu-instant-4.7.diff
+https://tools.suckless.org/dmenu/patches/border/dmenu-border-4.9.diff
+https://tools.suckless.org/dmenu/patches/case-insensitive/dmenu-caseinsensitive-5.0.diff
+https://tools.suckless.org/dmenu/patches/xresources/dmenu-xresources-4.9.diff
